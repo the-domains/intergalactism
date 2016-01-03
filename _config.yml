@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2518797
+color:
+  saturation: 0.6804512
+  lightness: 0.3936627
+  brandStrength: 0.4892589
+  rhythmicContrast: 0.7814178
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: intergalactism
